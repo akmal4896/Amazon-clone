@@ -1,5 +1,7 @@
 Description:
-A full stack Amazon clone web app with login and checkout funtionalities on serverless framework. 
+A full stack Amazon clone web app with login and checkout functionalities on serverless framework.
+Utilize Stripe for payment processing and login with firebase authentication.
+A ReactJS webapp with Cloud Functions and Firestore.
 
 Notes:
 1) Initialize ReactJS project.
